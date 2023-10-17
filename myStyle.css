@@ -1,9 +1,12 @@
 main{
-    background-color: rgb(2, 11, 62); 
+    background-color: rgb(223, 11, 181); 
     padding: 2px;
     color:rgb(255, 255, 255);
     width:500px;
     height: 200px;
     margin: auto;
 
+}
+body {
+    background-color: black;
 }
